@@ -1,6 +1,6 @@
 # Maths-IPYNB
 
-Ce dépôt contient les travaux pratiques (TP) de mathématiques pour les années 2021-2022 et 2022-2023, réalisé par Nolan CACHEUX en binôme.
+Ce dépôt contient mes travaux pratiques (TP) de mathématiques réalisés en binôme pour les années 2021-2022 et 2022-2023. 
 
 ## Contenu
 
