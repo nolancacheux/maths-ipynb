@@ -28,7 +28,7 @@ Chaque TP est présenté sous la forme d'un fichier Jupyter Notebook (.ipynb) dist
 
 ### 2022-2023
 
-Le dossier 2022-2023 contient les TP de mathématiques de l'année 2021-2022 :
+Le dossier 2022-2023 contient les TP de mathématiques de l'année 2022-2023 :
 
 1. TP1 - Introduction
 2. TP2 - Optimisation
